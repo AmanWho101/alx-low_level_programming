@@ -1,8 +1,8 @@
-#include <stdio.h>
-
+#include <main.h>
 /**
- * main - prints Buzz each numbers of 3 and 5.
- * Return: Always 0.
+ * main - check the code for Holberton School students.
+ *
+ * Return: void.
  */
 int main(void)
 {
