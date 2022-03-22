@@ -1,9 +1,13 @@
 #include <stdio.h>
+<<<<<<< HEAD
+=======
+
+>>>>>>> f75ccfc5953412fe4a963a543012cfc60eadbe18
 /**
- * main - prime numbers
- *
+ * main - prints largest prime factor.
  * Return: Always 0.
  */
+
 int main(void)
 {
 	long int n, fp;

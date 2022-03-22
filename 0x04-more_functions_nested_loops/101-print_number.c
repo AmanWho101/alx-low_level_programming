@@ -1,8 +1,16 @@
 #include "main.h"
+<<<<<<< HEAD
 /**
  * print_number - prints numbers
  * @n: number to be printed
  * Return:void
+=======
+
+/**
+ * print_number - prints an integer.
+ * @n: input integer.
+ * Return: no return.
+>>>>>>> f75ccfc5953412fe4a963a543012cfc60eadbe18
  */
 void print_number(int n)
 {

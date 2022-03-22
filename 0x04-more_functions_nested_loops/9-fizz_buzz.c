@@ -1,4 +1,4 @@
-#include <main.h>
+#include <stdio.h>
 /**
  * main - check the code for Holberton School students.
  *
@@ -10,7 +10,11 @@ int main(void)
 
 	n = 1;
 	printf("%d", n);
+<<<<<<< HEAD
 	for (n = 1; n <= 100; n++)
+=======
+	for (n = 2; n <= 100; n++)
+>>>>>>> f75ccfc5953412fe4a963a543012cfc60eadbe18
 	{
 		if ((n % 3 == 0) && (n % 5 == 0))
 		{
